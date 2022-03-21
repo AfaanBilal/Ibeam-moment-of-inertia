@@ -1,6 +1,6 @@
 /*
  * IBeam - Moment of Inertia
- * (c) Afaan Bilal ( https://afaan.ml )
+ * (c) Afaan Bilal ( https://afaan.dev )
  *
  * A C++ class to calculate and print the moment of inertia 
  * of an I-beam about its centroid.
